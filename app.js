@@ -1,3 +1,4 @@
+document.title = "Mochi ✅ Loaded";
 const c = document.getElementById("c");
 const ctx = c.getContext("2d");
 
